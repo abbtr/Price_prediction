@@ -1,2 +1,2 @@
 # Price_prediction
-Price prediction
+A project we did for a course
